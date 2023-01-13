@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557388541543",
+    "project_id": "dani-entakaly",
+    "storage_bucket": "com.cmapp.daniapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557388541543:android:128c407988077866f76ec2",
+        "android_client_info": {
+          "package_name": "com.cmapp.daniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557388541543-85mo20m51j8qvcs48sqhmn3oevs1jqpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoVHgkrTXD1uIcTL3HrdPPXDSS8L298_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557388541543-85mo20m51j8qvcs48sqhmn3oevs1jqpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
